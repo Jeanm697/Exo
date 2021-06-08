@@ -1,0 +1,23 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    display: inline-block;
+    border: solid black;
+}
+
+#carré2 {
+    position: relative;
+    top: 20px;
+}
+
+#carre3 {
+    position: absolute;
+    top: 180px;
+}
+.container{
+    background-color: chartreuse;
+    
+}
